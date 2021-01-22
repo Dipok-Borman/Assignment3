@@ -49,4 +49,4 @@ function hotelCost(day){
 var totalFee = hotelCost(200);
 console.log(totalFee);
 
-// var list = ["Sopon","Ainul","Hridoy","Shohag","Shamim","Jewel","Jamal","Laden","DipokBorman"];
+// vaiya last assignment ta aktur jonno parlam na;
